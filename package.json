@@ -1,0 +1,32 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "This project is for learning",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/Ankit0025-cmd/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/Ankit0025-cmd/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankit0025-cmd/namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "Ankit Kumar",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "browserslist": [
+    "last 20 versions"
+  ]
+}

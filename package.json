@@ -1,5 +1,5 @@
 {
-  "name": "y",
+  "name": "learn-react",
   "version": "1.0.0",
   "description": "This project is for learning",
   "keywords": [
@@ -17,6 +17,8 @@
   "author": "Ankit Kumar",
   "type": "commonjs",
   "scripts": {
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html",
     "test": "jest"
   },
   "devDependencies": {
